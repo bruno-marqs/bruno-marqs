@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello there!
 
-<!--
-**o-Drive/o-Drive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>- sobre mim -</h4>
+atualmente estou em curso técnico de Desenvolvimento de Sistemas pelo SENAI.
+aqui irei compartilhar alguns dos programas e projetos desenvolvidos ao longo
+de meus estudos;
 
-Here are some ideas to get you started:
+<i><h4>- about me - </h4>
+currently I'm studying System's Development in a SENAI's technical program
+I'll share here some of programs and projects developed by me troughout my studies;</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div dir="auto">
+<a href="https://github.com/o-Drive">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=o-Drive&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" sytle="max-width: 100%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Drive&layout=compact&langs_count=7&theme=gotham" sytle="max-width: 100%"/>
+</div>
+  
+<h4>- estou aprendendo -</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px width=50px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px width=50px/>
