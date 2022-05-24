@@ -9,10 +9,9 @@ de meus estudos;
 currently I'm studying System's Development in a SENAI's technical program.<br>
 I'll share here some of programs and projects developed by me troughout my studies;</i>
 
-<div dir="auto">
+<div>
 <a href="https://github.com/o-Drive">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=o-Drive&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Drive&layout=compact&langs_count=7&theme=gotham"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=o-Drive&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
   
 <h4>- estou aprendendo -</h4>
