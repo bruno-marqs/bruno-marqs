@@ -11,8 +11,8 @@ I'll share here some of programs and projects developed by me troughout my studi
 
 <div>
 <a href="https://github.com/o-Drive">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=o-Drive&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Drive&layout=compact&langs_count=7&theme=gotham"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=o-Drive&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" style="max-width: 100%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Drive&layout=compact&langs_count=7&theme=gotham" style="max-width: 100%"/>
 </div>
   
 <h4>- estou aprendendo -</h4>
