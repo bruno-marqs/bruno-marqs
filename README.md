@@ -17,7 +17,7 @@ I'll share here some of programs and projects developed by me troughout my studi
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Drive&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
 </div>
   
-<h4>- estou aprendendo -</h4>
+<h4>- o que estudei no 1º semestre -</h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=50px width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=50px width=50px/>
