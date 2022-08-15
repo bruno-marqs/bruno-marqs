@@ -24,3 +24,7 @@ I'll share here some of programs and projects developed by me troughout my studi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height=50px width=50px/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=50px width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height=50px width=50px/>
+
+<h4>- o que estou estudando no 2º semestre -</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=50px width=50px/>
+          
