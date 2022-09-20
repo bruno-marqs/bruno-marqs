@@ -27,4 +27,4 @@ I'll share here some of programs and projects developed by me troughout my studi
 
 <h4>- o que estou estudando no 2º semestre -</h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=50px width=50px/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=50px width=50px/>
