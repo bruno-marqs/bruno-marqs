@@ -13,8 +13,8 @@ I'll share here some of programs and projects developed by me troughout my studi
 
 <div>
 <a href="https://github.com/o-Drive">
-<img src="https://github-readme-stats.vercel.app/api?username=o-Drive&amp;show_icons=true&amp;theme=gotham&amp;include_all_commits=true&amp;count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Drive&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=o-Drive&amp;show_icons=true&amp;theme=gotham&amp;include_all_commits=true&amp;count_private=true">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Drive&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
 </div>
   
 <h4>- o que estudei no 1º semestre -</h4>
