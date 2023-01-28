@@ -1,14 +1,17 @@
-# Hello there!
+# </HELLO WORLD>
 
-<h4>- sobre mim -</h4>
+<h4><img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" height="20px" width="20px">  sobre mim  </h4>
 atualmente estou em curso técnico de Desenvolvimento de Sistemas pelo SENAI.<br>
 aqui irei compartilhar alguns dos programas e projetos desenvolvidos ao longo
 de meus estudos;
 
-<i><h4>- about me - </h4>
+<i><h4><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" height="20px" width="20px">  about me   </h4>
 currently I'm studying System's Development in a SENAI's technical program.<br>
 I'll share here some of programs and projects developed by me troughout my studies;</i>
 
+<i><h4><img src="https://cdn-icons-png.flaticon.com/128/197/197560.png" height="20px" width="20px">  de moi   </h4>
+actuellement, j'étudie dans un cours technique de Développement de Systèmes.<br>
+Je partagerai quelques-uns des programmes et projets développés au cours de mes études;</i>
 
 
 <div>
