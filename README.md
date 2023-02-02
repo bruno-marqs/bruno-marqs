@@ -1,4 +1,4 @@
-# <HELLO WORLD />
+# <HELLO WORLD>
 
 <h4><img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" height="20px" width="20px">  sobre mim  </h4>
 atualmente estou em curso técnico de Desenvolvimento de Sistemas pelo SENAI.<br>
