@@ -1,17 +1,17 @@
 # </HELLO WORLD>
 
 <h4><img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" height="20px" width="20px">  sobre mim  </h4>
-atualmente estou em curso técnico de Desenvolvimento de Sistemas pelo SENAI.<br>
-aqui irei compartilhar alguns dos programas e projetos desenvolvidos ao longo
-de meus estudos;
+Desenvolvedor Fullstack Jr.<br>
+aqui irei compartilhar alguns dos programas e projetos pessoais desenvolvidos ao longo
+de meus estudos e experimentos;
 
 <i><h4><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" height="20px" width="20px">  about me   </h4>
-currently I'm studying System's Development in a SENAI's technical program.<br>
-I'll share here some of programs and projects developed by me troughout my studies;</i>
+Fullstack Developer Jr.<br>
+I'll share here some of programs and personal projects developed by me troughout my studies and experiments;</i>
 
 <i><h4><img src="https://cdn-icons-png.flaticon.com/128/197/197560.png" height="20px" width="20px">  de moi   </h4>
-actuellement, j'étudie dans un cours technique de Développement de Systèmes.<br>
-Je partagerai quelques-uns des programmes et projets développés au cours de mes études;</i>
+Développeur logiciel Fullstack Jr.<br>
+Je partagerai quelques-uns des programmes et projets personnels développés au cours de mes études et expériences;</i>
 
 
 <div>
@@ -20,37 +20,19 @@ Je partagerai quelques-uns des programmes et projets développés au cours de me
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Drive&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
 </div>
   
-<h4>- o que estudei no 1º semestre -</h4>
+<h4>- Stacks -</h4>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height=50px width=50px/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height=50px width=50px/>
-</div>
-
-<h4>- o que estudei no 2º semestre -</h4>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=50px width=50px/>
-</div>
-
-<h4>- o que estou estudando no 3º semestre -</h4>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height=50px width=50px/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=50px width=50px/>
-          
-          
-          
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
