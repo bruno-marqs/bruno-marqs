@@ -4,6 +4,7 @@
 Desenvolvedor Fullstack Jr.<br>
 aqui irei compartilhar alguns dos programas e projetos pessoais desenvolvidos ao longo
 de meus estudos e experimentos;
+<a href="https://www.linkedin.com/in/b-marques/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://cursos.alura.com.br/user/bruno-marques-goncalves/fullCertificate/230a5e25223178895da20454a8078ea0"><img src="https://img.shields.io/badge/Certificados-FEAA2D?style=for-the-badge&logo=none&logoColor=white" /></a>
 
 <i><h4><img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" height="20px" width="20px">  about me   </h4>
 Fullstack Developer Jr.<br>
@@ -12,6 +13,8 @@ I'll share here some of programs and personal projects developed by me troughout
 <i><h4><img src="https://cdn-icons-png.flaticon.com/128/197/197560.png" height="20px" width="20px">  de moi   </h4>
 Développeur logiciel Fullstack Jr.<br>
 Je partagerai quelques-uns des programmes et projets personnels développés au cours de mes études et expériences;</i>
+
+
 
 
 <div>
