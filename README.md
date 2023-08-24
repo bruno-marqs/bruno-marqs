@@ -19,8 +19,8 @@ Je partagerai quelques-uns des programmes et projets personnels développés au 
 
 <div>
 <a href="https://github.com/bruno-marqs">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=o-Drive&amp;show_icons=true&amp;theme=gotham&amp;include_all_commits=true&amp;count_private=true">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-Drive&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bruno-marqs&amp;show_icons=true&amp;theme=gotham&amp;include_all_commits=true&amp;count_private=true">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-marqs&amp;layout=compact&amp;langs_count=7&amp;theme=gotham">
 </div>
   
 <h4>- Stacks -</h4>
